@@ -28,7 +28,7 @@ This project follows **InnerSource Commons patterns** for open collaboration wit
 ---
 
 ## 💬 Communication
-- Slack: `#innersource-platform`
+- Teams: `#innersource-cicd-platform`
 - Weekly office hours: every Wednesday 10 AM PST
 - Technical discussions: via GitHub Discussions
 
