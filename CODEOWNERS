@@ -1,0 +1,4 @@
+* @team-cicd-platform
+/docs/ @team-architecture-guild
+/tests/ @team-quality-assurance
+.github/ @team-innersource-governance
